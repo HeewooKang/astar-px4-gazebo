@@ -195,7 +195,7 @@ This script creates a Gazebo Classic world containing the DEM terrain and buildi
 
 ---
 
-# A* Path Planning
+# Step 7. A* Path Planning
 
 ## Option A. 2D A* with Fixed Altitude
 
