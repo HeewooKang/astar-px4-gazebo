@@ -16,6 +16,18 @@ The purpose of this project is to generate a realistic terrain and building envi
 
 ---
 
+## Demo Videos
+
+### 2D A* Fixed-Z Mode
+
+[Watch 2D A* demo](assets/2D_Astar_Algorithm_demo.mp4)
+
+### 3D Dynamic-Z A* Mode
+
+[Watch 3D Dynamic-Z A* demo](assets/3D_Astar_Algorithm_demo.mp4)
+
+---
+
 ## Project Structure
 
 ```bash
