@@ -19,7 +19,10 @@ The purpose of this project is to generate a realistic terrain and building envi
 ## Project Structure
 
 ```bash
-astar-px4-gazebo/
+A* Algorithm/
+├── data/
+│   └── input_map.tif
+├── output/
 └── scripts/
     ├── 01_read_tif_bbox.py
     ├── 02_make_heightmap_from_dem.py
@@ -30,16 +33,6 @@ astar-px4-gazebo/
     ├── 06_astar_gui_3d_z.py
     ├── 07_run_px4_astar_spawn.sh
     └── 08_csv_waypoint_follower.py
-```
-
-The local project directory should also contain:
-
-```bash
-A* Algorithm/
-├── data/
-│   └── input_map.tif
-├── output/
-└── scripts/
 ```
 
 `data/input_map.tif` and `output/` are not included in this repository.
